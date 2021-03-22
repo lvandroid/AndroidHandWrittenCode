@@ -1,0 +1,10 @@
+include ':hashmap'
+include ':recyclerview'
+include ':livedata'
+include ':annotation_compiler'
+include ':annotation'
+include ':login'
+include ':arouter'
+include ':member'
+include ':app'
+rootProject.name = "Interview"
